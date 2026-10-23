@@ -49,3 +49,15 @@ con este archivo, manda el spec.
 - No modificar docs/spec/ sin avisar.
 - Git: nunca commitear .env, docs/reference/ ni imágenes originales
   pesadas.
+
+
+## Figma
+Archivo: https://www.figma.com/design/oQWKtkoZJ0Lbkd6k7Y1kK5/P.I.C.O-proyect
+Frames (copiar link con node-id desde Figma):
+- Landing: https://www.figma.com/design/oQWKtkoZJ0Lbkd6k7Y1kK5/P.I.C.O-proyect?node-id=2-41&t=sS3WZBYlyxiS0ugi-0
+- 404 / "no está lista": https://www.figma.com/design/oQWKtkoZJ0Lbkd6k7Y1kK5/P.I.C.O-proyect?node-id=11-245&t=sS3WZBYlyxiS0ugi-0
+- Login: pendiente
+- Panel (Inicio): pendiente
+- Calendario: pendiente
+- Invitación Halloween: pendiente
+Si un frame no tiene link, no lo inventes: pídemelo.
